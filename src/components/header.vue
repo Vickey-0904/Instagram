@@ -45,6 +45,7 @@ export default {
     border-radius: 50px;
     right: 21px;
     top: 24px;
+    //hide
   }
 }
 </style>
